@@ -1,1 +1,1 @@
-Move from on directory to another
+Deleting from /tmp
