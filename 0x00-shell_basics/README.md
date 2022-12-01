@@ -1,1 +1,1 @@
-List directories with commas
+magic file
