@@ -1,1 +1,1 @@
-move files with capital letter
+delete specific file
