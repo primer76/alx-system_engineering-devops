@@ -1,1 +1,1 @@
-Deleting from /tmp
+Directory deleted
