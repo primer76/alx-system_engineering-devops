@@ -1,1 +1,1 @@
-dekete files with uppercase
+List directories with commas
