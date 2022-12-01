@@ -1,1 +1,1 @@
-Permissions to owner, group and others
+Permissions to all users
