@@ -1,1 +1,1 @@
-Empty file
+Permissions to owner, group and others
