@@ -1,1 +1,1 @@
-Permissions to all users
+Octal Notation
