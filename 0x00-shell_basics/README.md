@@ -1,1 +1,1 @@
-delete specific file
+dekete files with uppercase
