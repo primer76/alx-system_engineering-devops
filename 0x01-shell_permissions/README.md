@@ -1,1 +1,1 @@
-Execute permissions to all subdirectories
+Creates directory with permissions
