@@ -1,1 +1,1 @@
-Sets mode of file
+sets mode
