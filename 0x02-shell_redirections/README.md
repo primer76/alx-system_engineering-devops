@@ -17,3 +17,4 @@ Counts the number of lines that contains patter specified
  Display lines with pattern root and 3 lines after
 Display all the lines except ones containing bins
 Display lines of a file starting with a specific letter
+How to replace characters
