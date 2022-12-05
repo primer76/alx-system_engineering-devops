@@ -23,3 +23,4 @@ Reverses Input
 displays all users and their home directories
 Finds empty files and directories
 Lists all files with gif extension
+Decodes acrostics
