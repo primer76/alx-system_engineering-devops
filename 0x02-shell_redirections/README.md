@@ -12,3 +12,4 @@ Delete file in a directory but not the directory
 Counts numbers of directories and sub-directories in a directory
  Diplays newest files in a directory
 Prints a unique word
+Find the words containing a particular pattern
