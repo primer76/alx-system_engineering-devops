@@ -13,3 +13,4 @@ Counts numbers of directories and sub-directories in a directory
  Diplays newest files in a directory
 Prints a unique word
 Find the words containing a particular pattern
+Counts the number of lines that contains patter specified
