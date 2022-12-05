@@ -20,3 +20,4 @@ Display lines of a file starting with a specific letter
 How to replace characters
 Removes letter from input
 Reverses Input
+displays all users and their home directories
