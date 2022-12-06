@@ -11,3 +11,4 @@ Power divided by divide
 Displays Breath to the power of love
 Converts base 2 to base 10
 Combinations of two letters
+Prints a numebr with 2 decimal places
