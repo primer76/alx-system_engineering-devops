@@ -10,3 +10,4 @@ Prints result of the addition of 128 with the value stored
 Power divided by divide
 Displays Breath to the power of love
 Converts base 2 to base 10
+Combinations of two letters
