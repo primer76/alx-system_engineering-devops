@@ -15,3 +15,4 @@ Prints a numebr with 2 decimal places
 Converts Base 10 to Base 16
 Encodes and Decodes Text
 Prints every other line from the input
+Adds 2 numbers stored in the environment variable
