@@ -7,3 +7,4 @@ Lista all local variables and environment variables and functions
 Creates New Local Variable
 Creates Global variable
 Prints result of the addition of 128 with the value stored
+Power divided by divide
