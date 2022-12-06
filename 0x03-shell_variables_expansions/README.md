@@ -4,3 +4,4 @@ Adding to path
 Counts Number of directories in path
 Lists Environmental Variables
 Lista all local variables and environment variables and functions
+Creates New Local Variable
